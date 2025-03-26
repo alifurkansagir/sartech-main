@@ -1,6 +1,7 @@
 # SARTECH Software Web Sitesi Projesi
 
 Modern ve profesyonel bir yazılım şirketi web sitesi. Responsive tasarım ve modern animasyonlarla zenginleştirilmiş kurumsal web sitesi projesi.
+Proje detayları için sayfamızı ziyaret edebilirsiniz https://alifurkansagir.github.io/sartech-main/
 
 ## Kullanılan Teknolojiler
 
@@ -42,6 +43,11 @@ Modern ve profesyonel bir yazılım şirketi web sitesi. Responsive tasarım ve 
 - E-posta: alifurkan309@gmail.com
 - 
 ## Görseller
+![anasayfa](https://github.com/user-attachments/assets/5da7ce88-7b62-495d-a803-8c3bcbdff43c)
+![Blog](https://github.com/user-attachments/assets/29781e56-2fb1-4516-8878-5f5b34aebed4)
+![Hakkımızda](https://github.com/user-attachments/assets/8b48f768-8b41-4697-b02c-5fc7f5b6053f)
+![İletişim](https://github.com/user-attachments/assets/a12ba7bd-7670-4e9e-afeb-88b2b49d80a8)
+
 
 ## Lisans
 
